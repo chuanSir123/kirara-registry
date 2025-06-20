@@ -1,6 +1,6 @@
 {
-  "name": "im_onebot_adapters",
-  "description": "onebot适配器",
-  "author": "cloxl",
-  "pypiPackage": "chatgpt-mirai-qq-bot-onebot-adapter"
+  "name": "im_wechat_adapter",
+  "description": "wechat适配器",
+  "author": "chuansir",
+  "pypiPackage": "im_wechat_adapter"
 }
