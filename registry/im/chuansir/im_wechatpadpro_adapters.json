@@ -1,6 +1,6 @@
 {
-  "name": "im_wechat_adapter",
+  "name": "im_wechatpadpro_adapter",
   "description": "wechat适配器,通过WeChatPadPro与微信交互，建议使用WeChatPadPro的docker部署[WeChatPadPro 文档](https://github.com/WeChatPadPro/WeChatPadPro),初次登录将会在控制台打印登录二维码网址，请打开网址后扫码登录",
   "author": "chuansir",
-  "pypiPackage": "im_wechat_adapter"
+  "pypiPackage": "im_wechatpadpro_adapter"
 }
